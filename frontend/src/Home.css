@@ -1,0 +1,11 @@
+/* src/Home.css */
+
+.product-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .product-card:hover {
+    transform: scale(1.05); /* Slightly scales up the card on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Adds a shadow effect on hover */
+  }
+  

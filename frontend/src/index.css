@@ -1,0 +1,15 @@
+/* src/index.css */
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f7f7f7; /* Light background color for better contrast */
+}
+
+a {
+  color: #1d4ed8; /* Tailwind blue-700 color for links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
